@@ -67,7 +67,7 @@ nav a:hover {
   font-size: 22px;
 }
 
-/* responsiveness navbar voor mobile */
+/* responsiveness navbar voor mobiele telefoons */
 @media only screen and (max-width: 600px) {
   nav {
     flex-direction: column;
@@ -246,7 +246,6 @@ nav a:hover {
   display: flex;
   justify-content: center;
   padding: 2em;
-
 }
 
 .see-more-episodes-btn {
@@ -271,13 +270,11 @@ nav a:hover {
   color: #fff;
 }
 
-
 footer {
   background-color: #000;
   color: #fff;
   padding: 2rem;
   text-align: center;
-
 }
 
 footer .footer-content {
@@ -354,7 +351,6 @@ footer .footer-content {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 }
-
 
 @keyframes fadeIn {
   0% {
